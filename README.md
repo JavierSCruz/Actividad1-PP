@@ -1,5 +1,5 @@
-# Actividad1-Proyecto de Producción
-Fornés, Mennuti, Santa Cruz, Tartaglia - 5to A Info
+# Actividad 1 - Proyecto de Producción
+Fornés, Mennuti, Santa Cruz, Tartaglia - 5to A Infomática
 
 Bienvenidos!
 Para jugar a nuestro Wordle necesitaras tener en cuenta un par de cosas: 
